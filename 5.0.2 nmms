@@ -10,5 +10,11 @@
         "key": "key67890",
         "expirydate": "15-06-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "4119ab61c000fd07",
+        "key": "nayak321",
+        "expirydate": "25-11-2026",
+        "Allowoffline": false
     }
 ]
